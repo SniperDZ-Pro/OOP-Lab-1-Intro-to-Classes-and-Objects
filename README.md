@@ -1,4 +1,4 @@
-# OOP Lab 01: Introduction to Classes & Objects (Java)
+# OOP Lab 01: Introduction to Classes and Objects (Java)
 
 Welcome to Lab 01. After our Git workshop, this session marks our transition from procedural programming to Object-Oriented Programming (OOP) in Java using the Eclipse IDE.
 
